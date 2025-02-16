@@ -1,3 +1,9 @@
 New file Adding on 16Feb from local
 
+
 adding from local for merge conflict
+
+Change done from Github to check merge conflict
+
+
+final merge after resolving conflicts
