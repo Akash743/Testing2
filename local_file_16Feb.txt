@@ -7,3 +7,5 @@ Change done from Github to check merge conflict
 
 
 final merge after resolving conflicts
+
+New line added from new branch in local- branch3
